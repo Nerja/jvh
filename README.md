@@ -12,4 +12,4 @@ Jodel upvote/downvote/censorship proof of concept
 [Video](https://vimeo.com/207301036)
 
 ## Using
-[jodel_api by nborrmann](https://github.com/nborrmann/jodel_api_
+[jodel_api by nborrmann](https://github.com/nborrmann/jodel_api)
