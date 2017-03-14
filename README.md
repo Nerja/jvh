@@ -4,7 +4,7 @@ Jodel Vote Hammer
 Jodel upvote/downvote/censorship proof of concept
 
 ## Todo
-- [ ] Add upvote feature
+- [x] Add upvote feature
 - [ ] Add explore reply feature
 - [ ] Add TOR features (gateway, renew identity)
 
