@@ -9,7 +9,7 @@ Jodel upvote/downvote/censorship proof of concept
 - [ ] Add TOR features (gateway, renew identity)
 
 ## Demo
-[Video](https://vimeo.com/207301036)
+[Video](https://vimeo.com/207301036) (outdated)
 
 ## Using
 [jodel_api by nborrmann](https://github.com/nborrmann/jodel_api)
