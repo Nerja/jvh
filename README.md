@@ -10,3 +10,6 @@ Jodel upvote/downvote/censorship proof of concept
 
 ## Demo
 [Video](https://vimeo.com/207301036)
+
+## Using
+[jodel_api by nborrmann](https://github.com/nborrmann/jodel_api_
